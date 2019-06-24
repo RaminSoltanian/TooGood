@@ -1,0 +1,20 @@
+C:\Ramin\IT Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Ramin\IT Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Ramin\IT Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Ramin\IT Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Ramin\IT Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Ramin\IT Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Ramin\Code Examples\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojAssemblyReference.cache
+C:\Ramin\Code Examples\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Ramin\Code Examples\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Ramin\Code Examples\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Ramin\Code Examples\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Ramin\Code Examples\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Ramin\Code Examples\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Ramin\Code Examples\DependencyInjection - TooGood\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Ramin\Code Examples\DependencyInjection - TooGood\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Ramin\Code Examples\DependencyInjection - TooGood\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Ramin\Code Examples\DependencyInjection - TooGood\DependencyInjection\obj\Debug\DependencyInjection.csprojAssemblyReference.cache
+C:\Ramin\Code Examples\DependencyInjection - TooGood\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Ramin\Code Examples\DependencyInjection - TooGood\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Ramin\Code Examples\DependencyInjection - TooGood\DependencyInjection\obj\Debug\DependencyInjection.pdb
